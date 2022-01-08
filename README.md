@@ -1,8 +1,8 @@
 # WeatherEyes
 
-WeatherEyes is a web application that enables a user to compare historical weather data and weather forecasts from three different weather tracking organizations: 1) The National Weather Service, 2) AccuWeather, and 3) Weather.com.
+WeatherEyes is a website that enables a user to compare historical weather data and weather forecasts from three different weather tracking organizations: 1) The National Weather Service, 2) AccuWeather, and 3) Weather.com.
 
-Four projects were undertaken to create this application. They were:
+Four projects were undertaken to create this website. They were:
 1) Collect and provide historic weather records from each of the three organizations.
 2) Collect and provide weather forecasts from each of the three organizations.
 3) Create a website that will enable a user to able to view weather information--future and prior forecasts as well as prior observations--by visiting a web page.
